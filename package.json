@@ -1,0 +1,27 @@
+{
+  "name": "klevak-hello-express",
+  "version": "1.0.0",
+  "description": "Hello Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llbeaninc/edgebootcamp"
+  },
+  "keywords": [
+    "apigee",
+    "node",
+    "express"
+  ],
+  "author": "Kris Kleva @klevland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llbeaninc/edgebootcamp/issues"
+  },
+  "homepage": "https://github.com/llbeaninc/edgebootcamp",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
